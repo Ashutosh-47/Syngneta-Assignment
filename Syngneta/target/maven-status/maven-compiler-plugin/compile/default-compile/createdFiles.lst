@@ -1,0 +1,4 @@
+com\example\Syngneta\controller\AddressBookController.class
+com\example\Syngneta\field\Field.class
+com\example\Syngneta\AddressBookApplication.class
+com\example\Syngneta\service\AddressBookService.class
